@@ -1,4 +1,4 @@
-package com.entity.fynd.me.activities
+package com.entity.fynd.me.ui.activities
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
